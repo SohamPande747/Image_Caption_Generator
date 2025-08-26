@@ -3,3 +3,4 @@ pillow
 nltk
 pycocoevalcap
 streamlit
+dotenv
